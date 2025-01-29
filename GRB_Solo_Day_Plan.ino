@@ -13,8 +13,8 @@ uint16_t co = 0;
 #include <WiFiClientSecure.h>
 #include <UniversalTelegramBot.h>
 
-const char* ssid = "K4";
-const char* password = "12111112";
+const char* ssid = "Wifi";
+const char* password = "pwd";
 
 #define BOTtoken "--you bot token ----"
 #define CHAT_ID "---you chat id ------"
